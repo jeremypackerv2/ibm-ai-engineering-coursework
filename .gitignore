@@ -35,7 +35,8 @@ Thumbs.db
 *.log
 *.sqlite3
 
-# Keep only .py files
+# Keep only .py files and documentation
 *
 !*.py
 !.gitignore
+!README.md
