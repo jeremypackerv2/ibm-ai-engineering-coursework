@@ -2,7 +2,6 @@
 # Date: December 22, 2024
 # Description: Classification of MNIST( Modified National Institute of Standards and Technology) with Keras to distinguish characters. 
 # The MNIST database contains 60,000 training images and 10,000 testing images of digits written by high school students and employees of the United States Census Bureau.
- 
 
 import numpy as np
 import pandas as pd
