@@ -1,6 +1,6 @@
 # Author: Jeremy Packer
 # Date: December 22, 2024
-# Description: Classification with Keras for IBM AI Engineering Professional Certificate
+# Description: Classification with Keras
 
 import numpy as np
 import pandas as pd
