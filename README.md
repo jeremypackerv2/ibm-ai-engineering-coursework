@@ -18,8 +18,14 @@ This repository contains Python-based machine learning and AI projects, focusing
 
 ---
 
-*(Repeat this format for additional projects as they are added.)*
+### **2. Convolutional Neural Networks with Keras**
+- **Script:** `convolutional-neural-networks.py`  
+- **Description:** A convolutional neural network (CNN) for classifying images from the MNIST dataset using Keras and TensorFlow.  
+- **Techniques Used:** Convolutional layers, Max pooling, Flatten, and dense layers for classification.  
+- **Output:**  
+  Achieved **98% accuracy** on the test dataset after 10 epochs.
 
+---
 
 ## Setup
 1. Create a Python 3.10 virtual environment:
