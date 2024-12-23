@@ -1,10 +1,25 @@
-# AI Work Repository
+# AI Engineering Class Work Repository
 
 ## Overview
 This repository contains Python-based machine learning and AI projects, focusing on classification tasks using Keras and TensorFlow.
 
-## Project Structure
-- `classification-with-keras.py`: Main classification model implementation using Keras/TensorFlow
+## **Project Structure**  
+- **`classification-with-keras.py`**: Classification of MNIST handwritten digit images using a fully connected neural network.  
+*(Additional projects will be listed here as they are added.)* 
+
+## **Projects**
+
+### **1. MNIST Classification**
+- **Script:** `classification-with-keras.py`  
+- **Description:** A neural network model for classifying handwritten digits from the MNIST dataset using Keras and TensorFlow.  
+- **Techniques Used:** Fully connected layers, ReLU activation, and softmax for multi-class classification.  
+- **Output:**  
+  Achieved **98% accuracy** on the test dataset after 10 epochs.
+
+---
+
+*(Repeat this format for additional projects as they are added.)*
+
 
 ## Setup
 1. Create a Python 3.10 virtual environment:
