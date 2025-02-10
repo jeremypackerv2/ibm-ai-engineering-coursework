@@ -1,7 +1,10 @@
 # Author: Jeremy Packer
 # Date: December 23, 2024
-# Description: Convolutional Neural Network for Image Classification
+# Description: Convolutional Neural Network for Image Classification of MNIST( Modified National Institute of Standards and Technology) with Keras. 
+# The MNIST database contains 60,000 training images and 10,000 testing images of digits written by high school students and employees of the United States Census Bureau.
+# Completed for Module 5 assignment
 
+import numpy as np
 import tensorflow as tf
 
 from tensorflow.keras.models import Sequential
